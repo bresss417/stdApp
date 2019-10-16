@@ -1,0 +1,2 @@
+# stdApp
+projectnew
